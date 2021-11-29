@@ -625,3 +625,12 @@ a:hover figcaption { color: #056767; }
     margin: auto;
 }
 
+@media (max-width: 630px) {
+    #post-img {
+        display: block;
+        width: 90%;
+        height: auto;
+        margin: auto;
+    }
+}
+
