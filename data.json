@@ -1,0 +1,72 @@
+{
+    "training": [
+        {
+            "title": "Cycle certifiant Responsable infrastructure Cloud",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Ce cycle vous apportera les connaissances nécessaires pour exercer le métier de Responsable infrastructure Cloud Computing. Il présente les usages, les aspects réglementaires et les bonnes pratiques pour réussir l'évolution vers le Cloud. Il décrypte les solutions techniques pour choisir et déployer une solution Cloud.",
+            "objectives": [
+                "Evaluer les opportunités proposées par le Cloud Computing",
+                "Analyser l'état de l'art des solutions techniques du Cloud Computing", 
+                "Comprendre les problématiques d'une architecture Cloud Computing",
+                "Mettre en œuvre un projet Cloud"
+            ],
+            "modules": [
+                "Cloud Computing, usages et solutions",
+                "Mener un projet Cloud Computing", 
+                "Cloud Computing, solutions techniques",
+                "Solutions compatibles avec les offres de Cloud privés et publics",
+                "Cloud Computing, mise en œuvre d'une solution de Private Cloud",
+                "Solutions de PaaS et Big Data privé"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "title": "Cloud Computing, Synthèse : Usages et Solutions",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "La révolution induite par le Cloud Computing est désormais en marche. Du stockage au traitement de données, en passant par l'usage d'applications 'déportées', c'est tout un écosystème dématérialisé qui est en perpétuel mouvement. Ce séminaire vous permettra de comprendre les principes fondamentaux de cette solution ainsi que l'impact sur les infrastructures informatiques existantes de l'entreprise. Vous verrez également les scénarios d'utilisation et les différents aspects réglementaires, humains et techniques qui vous permettront d'avoir une vision claire et complète du Cloud Computing.",
+            "objectives": [
+                "Découvrir ce qu'est le Cloud Computing",
+                "Identifier les impacts structurels et ceux liés à la sécurité de la DSI", 
+                "Évaluer les apports du Cloud pour l'entreprise",
+                "Identifier les principales offres Cloud du marché",
+                "Intégrer les enjeux managériaux, organisationnels et techniques dans la DSI"
+            ],
+            "modules": [
+                "Introduction",
+                "SaaS et Cloud Computing, les différences", 
+                "État de l'art des solutions et scénarios d'utilisation du Cloud Computing",
+                "Sécurité",
+                "SaaS et Cloud",
+                "Intégration du SaaS et du Cloud Computing dans les entreprises",
+                "Architecture intégrant le Cloud Computing",
+                "Cloud privé versus Cloud hybride"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "title": "Cloud Computing, solutions techniques",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Ce cours de synthèse vous permettra de décrypter les problématiques inhérentes à la mise en place d'une architecture cloud. Vous apprendrez aussi à identifier les solutions techniques et les bonnes pratiques nécessaires pour choisir et déployer la meilleure solution pour vos projets.",
+            "objectives": [
+                "Découvrir les principes clés du Cloud Computing, ses différents modes de déploiement",
+                "Évaluer les impacts de l’intégration d’une architecture cloud dans un système d’information", 
+                "Découvrir les principales offres et solutions de Cloud Computing",
+                "Identifier les différentes solutions de management et de monitoring"
+            ],
+            "modules": [
+                "Introduction",
+                "Description des problématiques d'architecture Cloud", 
+                "Description des principales offres de Cloud",
+                "Solutions compatibles avec les offres de Cloud privés et publics",
+                "Les solutions de management et de monitoring"
+            ],
+            "detailed_modules": []
+        }
+    ]
+}
