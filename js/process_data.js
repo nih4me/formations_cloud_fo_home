@@ -4,6 +4,7 @@ function display_trainings() {
         trainings = json['training']
         for (var i = 0; i < trainings.length; i++) {
             training = trainings[i];
+            if (training['disabled'] == 'true') continue;
             temp = 
                 '<article class="col-12 col-md-6 tm-post">' +
                 '    <hr class="tm-hr-primary">' +
@@ -34,7 +35,7 @@ function display_one_training(id) {
         trainings = json['training']
         target_training = null;
         for (var i = 0; i < trainings.length; i++) {
-            if (trainings[i]['id'] == id) {
+            if (trainings[i]['id'] == id && trainings[i]['disabled'] == 'false') {
                 target_training = trainings[i];
             }
         }

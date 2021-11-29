@@ -3,6 +3,7 @@
         {
             "id": "CC001",
             "title": "Cycle certifiant Responsable infrastructure Cloud",
+            "disabled": "false",
             "img": "img/img-01.jpeg",
             "category": "Cloud Computing",
             "added_at": "Novembre 2021",
@@ -26,6 +27,7 @@
         {
             "id": "CC002",
             "title": "Cloud Computing, Synthèse : Usages et Solutions",
+            "disabled": "false",
             "img": "img/img-01.jpeg",
             "category": "Cloud Computing",
             "added_at": "Novembre 2021",
@@ -52,6 +54,7 @@
         {
             "id": "CC003",
             "title": "Cloud Computing, solutions techniques",
+            "disabled": "false",
             "img": "img/img-01.jpeg",
             "category": "Cloud Computing",
             "added_at": "Novembre 2021",
@@ -68,6 +71,374 @@
                 "Description des principales offres de Cloud",
                 "Solutions compatibles avec les offres de Cloud privés et publics",
                 "Les solutions de management et de monitoring"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC004",
+            "title": "Cloud Computing, architecture et expertise",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Le Cloud Computing représente une évolution majeure des systèmes d'information permettant de proposer une très forte puissance de calcul à moindres coûts. Cette formation vous permettra de comprendre les différents composants d'une architecture Cloud Computing ainsi que la démarche de la philosophie DevOps.",
+            "objectives": [
+                "Découvrir les fonctionnalités du Cloud Computing",
+                "Comprendre l'accès au Cloud avec les réseaux haut débit et le WiFi", 
+                "Apprendre les différences entre Cloud privé et Cloud hybride",
+                "Comprendre la démarche DevOps"
+            ],
+            "modules": [
+                "Les fonctionnalités offertes par le Cloud Computing",
+                "Les réseaux, les terminaux mobiles et le BYOD", 
+                "Le Cloud privé et le Cloud hybride",
+                "Démarche et philosophie DevOps",
+                "Différences entre le mouvement DevOps et la DSI traditionnelle",
+                "Accompagner une DSI vers le fonctionnement DevOps",
+                "Industrialisation et pratiques DevOps"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC005",
+            "title": "Cloud Computing, gouvernance et sécurité",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Les solutions de Cloud Computing offrent aux entreprises la possibilité d'optimiser leur efficacité et de faire des économies, mais soulèvent également des questions sur la sécurité, et notamment sur la protection des données et la conformité aux réglementations. Cette formation très riche vous permettra de comprendre les technologies utilisées, d'évaluer les risques et de connaître les solutions à mettre en place pour bien relever le défi en matière de cybersécurité.",
+            "objectives": [
+                "Apprendre à sécuriser les environnements virtuels et les accès réseau au Cloud",
+                "Évaluer et gérer les risques du Cloud Computing selon la norme ISO 27005", 
+                "Contrôler et superviser la sécurité du Cloud",
+                "Apprendre les aspects juridiques et la conformité réglementaire"
+            ],
+            "modules": [
+                "Introduction à la sécurité du Cloud Computing",
+                "La sécurité des environnements virtuels", 
+                "La sécurité des accès réseaux au Cloud",
+                "Les travaux de la Cloud Security Alliance (CSA)",
+                "La sécurité du Cloud Computing selon l'ENISA",
+                "Contrôler la sécurité du Cloud",
+                "Le contrat Cloud",
+                "Aspects juridiques et conformité réglementaire",
+                "Les normes de sécurité dans le Cloud",
+                "La gestion des licences dans le Cloud"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC006",
+            "title": "Cloud et Fog Networking",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Depuis 2015, le cloud révolutionne silencieusement le monde des réseaux. Les équipements d'interconnexion migrent progressivement dans les data centers. De ce fait, de nouveaux protocoles de transport intra-data center et inter-data centers prennent la place des protocoles classiques de l'Internet. Ce séminaire propose un état de l'art sur l'utilisation du cloud et du fog, une synthèse sur les réseaux virtuels, une présentation détaillée des nouvelles architectures SDN et ONF ainsi qu'une présentation des principaux produits : SD-WAN, vCPE, vWi-Fi, vCN",
+            "objectives": [
+                "Comprendre le cloud et le fog networking",
+                "Comprendre la virtualisation des réseaux", 
+                "Apprendre les protocoles réseaux utilisés pour le cloud networking",
+                "Connaître les équipementiers du SDN et la position des opérateurs"
+            ],
+            "modules": [
+                "La virtualisation des réseaux",
+                "Les composants du SDN", 
+                "OPNFV",
+                "Les solutions SD-X",
+                "L'open source et le cloud networking",
+                "Le MEC et le fog networking",
+                "Usage du cloud et du fog networking",
+                "Les protocoles du cloud et du fog networking",
+                "La sécurité du cloud et du fog networking",
+                "Conclusion et tendances"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC007",
+            "title": "Cloud Computing, sécurité",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "",
+            "objectives": [
+                "Évaluer les principales menaces, vulnérabilités et risques dans le cloud",
+                "Acquérir les principes clés issus du guide sécurité et de la CCM de la cloud security alliance", 
+                "Comprendre les risques identifiés par l’ENISA",
+                "Évaluer la maturité et le niveau de sécurité des fournisseurs cloud",
+                "Découvrir les principes fondamentaux de la sécurité dans le cloud"
+            ],
+            "modules": [
+                "Introduction à la sécurité du cloud computing",
+                "La sécurité des données dans le cloud", 
+                "Les référentiels de la cloud security alliance (CSA)",
+                "Les risques dans le cloud computing selon l'ENISA",
+                "L’évaluation de la sécurité des fournisseurs",
+                "La sécurité dans les contrats cloud",
+                "Aspects juridiques"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC008",
+            "title": "Gérer la sécurité des services Cloud AWS et MS-Azure, synthèse",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "",
+            "objectives": [
+                "Evaluer et maîtriser les risques",
+                "Connaître les outils et services disponibles", 
+                "Comprendre l'organisation nécessaire pour maintenir et améliorer le niveau de sécurité"
+            ],
+            "modules": [
+                "Les fondamentaux",
+                "Le modèle à responsabilité partagée", 
+                "Sécurité des machines virtuelles (VMs)",
+                "Gestion Cryptographique",
+                "Sauvegardes de données",
+                "Contrôler la sécurité"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC009",
+            "title": "Cloud Technology Associate (CTA), certification les fondamentaux du Cloud et de la Virtualisation",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "",
+            "objectives": [
+                "Identifier les concepts du Cloud Computing et de la Virtualisation",
+                "Evaluer les différents types de Cloud et les technologies associées", 
+                "Comprendre la valeur ajoutée du Cloud pour les métiers et l'IT",
+                "Définir les besoins en sécurité, les risques et les mesures d'atténuation des risques",
+                "Préciser les impacts du Cloud sur la gouvernance du SI et mieux gérer la transition"
+            ],
+            "modules": [
+                "Introduction",
+                "Introduction au Cloud Service Model", 
+                "Introduction à la virtualisation : Technologie Backbone du Cloud",
+                "Vue d'ensemble des technologies et applications Cloud",
+                "Sécurité, risques, conformité et gouvernance du Cloud",
+                "Mise en œuvre du Cloud",
+                "Cloud Service Management (CSM)",
+                "Examen \"Cloud Technology Associate (CTA)\""
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC010",
+            "title": "Professional Cloud Solution Architect (PCSA), certification",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Comment évaluer une architecture Cloud, appréhender une migration et mesurer les impacts sur les métiers et les modèles IT ? Ce cours permettra à tout Architecte Cloud de répondre à cette question et de se préparer au passage de la certification Professional Cloud Solution Architect (PCSA) de l'EXIN et du CCC.",
+            "objectives": [
+                "Découvrir les fondamentaux du Cloud et leur impact sur l'architecture des entreprises",
+                "Savoir utiliser l'infrastructure, les plateformes et les applications \"As A Service\"", 
+                "Evaluer l'impact du Cloud sur la gestion des services informatiques de l'entreprise",
+                "Evaluer une architecture Cloud Computing",
+                "Migrer vers un environnement Clou"
+            ],
+            "modules": [
+                "Historique du Cloud et de ses impacts",
+                "Ingénierie et architecture du Cloud Computing", 
+                "Les cycles de vie des services Cloud",
+                "Transition et transformation de services",
+                "Perspectives sur la mise en œuvre du Cloud",
+                "Ecosystème",
+                "Cibler la bonne solution",
+                "Préparation et passage de l'examen"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC011",
+            "title": "Professional Cloud Administrator (PCA), certification",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Quelles sont les bonnes pratiques permettant d'administrer, optimiser et assurer la gestion de la continuité d'un environnement Cloud ? Ce cours permettra à tout Administrateur Cloud de répondre à cette question et de se préparer au passage de la certification Professional Cloud Administrator (PCA) de l'EXIN et du CCC.",
+            "objectives": [
+                "Administrer une plateforme Cloud",
+                "Comprendre les points clés de la sécurité Cloud", 
+                "Etablir des mesures d'optimisation du Cloud",
+                "Etablir les règles de gestion d'une plateforme Cloud"
+            ],
+            "modules": [
+                "Fourniture et administration des ressources du Cloud",
+                "Administration flexible et évolutive du Cloud", 
+                "La portabilité et l'interopérabilité",
+                "Nécessité d'une politique d'utilisation de Cloud et de sa conformité",
+                "Stratégie de gestion de la continuité et reprise sur sinistre",
+                "Fondamentaux de la sécurité",
+                "Mesures des performances, suivi et optimisation du Cloud",
+                "Passage de l'examen"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC012",
+            "title": "Professional Cloud Service Manager (PCSM), certification",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Comment définir une stratégie de gestion des services Cloud et l'intégrer à la gouvernance de la gestion de services IT traditionnels ? Ce cours permet à tout Service Manager Cloud de répondre à cette question et de se préparer au passage de la certification Professional Cloud Service Manager (PCSM) de l'EXIN et CCC.",
+            "objectives": [
+                "Maîtriser les concepts de gestion des services Cloud",
+                "Comprendre les référentiels et standards IT de gestion de services Cloud", 
+                "Connaître les différences entre une gestion de services Cloud et la gestion de services IT.",
+                "Etablir les rôles nécessaires pour gérer les services Cloud",
+                "Evaluer les risques et les bénéfices d'une stratégie Cloud",
+                "Définir et appliquer les règles de gestion de la demande des services Cloud"
+            ],
+            "modules": [
+                "Introduction à la gestion de services Cloud",
+                "Les rôles de la gestion de services en Cloud", 
+                "Stratégie de services",
+                "Conception, déploiement et migration de services",
+                "Gestion des services Cloud",
+                "Approche économique et gouvernance de services Cloud",
+                "Apport de la valeur des services Cloud au métier",
+                "Préparation et passage de l'examen"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC013",
+            "title": "Professional Cloud Developer (PCD), certification",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Quelles sont les caractéristiques du développement pour le Cloud, quelles sont les étapes à mener jusqu'au déploiement d'une application ? Ce cours permettra à tout Développeur Cloud de répondre à ces questions et de se préparer au passage de la certification Professional Cloud Developer (PCD) de l'EXIN et du CCC.",
+            "objectives": [
+                "Evaluer le développement et le déploiement dans un environnement Clou",
+                "Découvrir les fondamentaux des règles de sécurité Cloud", 
+                "Concevoir et dimensionner des environnements Cloud",
+                "Développer des applications multitenants",
+                "Evaluer les modèles d'architecture applicative Cloud",
+                "Définir un code évolutif avec une stratégie de tests des développements"
+            ],
+            "modules": [
+                "Patterns d'architecture Cloud",
+                "Modularité, encapsulation et orchestration de service", 
+                "Développement de techniques de monétisation",
+                "Les fondamentaux de la sécurité en Cloud et cadre de conformité",
+                "Métadonnée et sémantique, scalabilité du codage",
+                "Test et déploiement en Cloud",
+                "IaaS, PaaS et SaaS",
+                "Préparation et passage de l'examen"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC014",
+            "title": "Private Cloud, démarche et outils pour une mise en œuvre réussie",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Ce cours vous permettra de décrypter les problématiques inhérentes à la mise en place d'un Cloud privé. Il vous présentera les solutions techniques et les bonnes pratiques susceptibles d'en assurer le succès. Il vous exposera également une démarche pour déployer une partie de votre SI dans le Cloud.",
+            "objectives": [
+                "Découvrir les bases du Cloud, ses différents modes de déploiement",
+                "Comprendre les principales problématiques de la mise en place d’un Cloud privé", 
+                "Évaluer les solutions techniques et les bonnes pratiques de mise en place d’un Cloud privé",
+                "Maîtriser les étapes clés d'un projet de mise en place d’un Cloud privé",
+                "Comprendre les principes de la sécurisation d’un Cloud privé"
+            ],
+            "modules": [
+                "Introduction",
+                "Le Cloud Computing privé", 
+                "Les offres du marché",
+                "Sécurisation d'un déploiement Cloud privé",
+                "Solutions pour créer un Cloud Hybride/Cloud Management",
+                "Solutions de PaaS privé",
+                "BigData en Cloud privé, les solutions"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC015",
+            "title": "Private Cloud, mise en œuvre avec OpenStack",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Ce cours vous permettra de découvrir le concept de Cloud privé et de le mettre en œuvre à travers la solution libre OpenStack. A la fin du cours, vous connaîtrez les différentes briques d'OpenStack et serez à même d'installer et d'administrer le Cloud, notamment le stockage, la redondance et le réseau virtuel.",
+            "objectives": [
+                "Comprendre les concepts clés et las bases techniques d'un Cloud privé",
+                "Concevoir un Cloud privé avec OpenStack", 
+                "Maîtriser les méthodes d'installation d'un Cloud privé",
+                "Savoir administrer un Cloud privé"
+            ],
+            "modules": [
+                "Conception d'un Cloud OpenStack",
+                "Gestion des machines virtuelles", 
+                "Gestion du stockage",
+                "Gestion des images",
+                "Gestion du réseau",
+                "Authentification et autorisations",
+                "Administration du Cloud"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC016",
+            "title": "Kubernetes, mise en œuvre",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Comprendre l'architecture de Kubernetes. Créer des applications élastiques en gérant et supervisant leur déploiement, leur intégrité et leur disponibilité.",
+            "objectives": [
+                "Comprendre le positionnement de Kubernetes et la notion d'orchestration",
+                "Installer Kubernetes et ses différents composants", 
+                "Utiliser les fichiers descriptifs YAML",
+                "Définir les bonnes pratiques pour travailler avec Kubernetes"
+            ],
+            "modules": [
+                "Introduction à kubernetes",
+                "Les fichiers descriptifs", 
+                "Architecture Kubernetes",
+                "Exploiter Kubernetes",
+                "Gestion avancée de conteneurs",
+                "Kubernetes en production",
+                "Déploiement d'un cluster Kubernetes"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "CC017",
+            "title": "Docker, créer et administrer ses conteneurs virtuels d'applications",
+            "disabled": "false",
+            "img": "img/img-01.jpeg",
+            "category": "Cloud Computing",
+            "added_at": "Novembre 2021",
+            "summary": "Alternative à la virtualisation, Docker étend la portabilité d'exécution d'une application grâce à ses conteneurs logiciels virtuels. Vous apprendrez dans cette formation à construire et à gérer des conteneurs. Vous mettrez en œuvre des conteneurs personnalisés et déploierez des applications multi-conteneurs.",
+            "objectives": [
+                "Comprendre le positionnement de Docker et des conteneurs",
+                "Manipuler l'interface en ligne de commande de Docker pour créer des conteneurs", 
+                "Mettre en œuvre et déployer des applications dans des conteneurs",
+                "Administrer des conteneurs"
+            ],
+            "modules": [
+                "De la virtualisation à Docker",
+                "Présentation de Docker", 
+                "Mise en œuvre en ligne de commande",
+                "Création de conteneur personnalisé",
+                "Mettre en œuvre une application multiconteneur",
+                "Interfaces d'administration",
+                "Administrer des conteneurs en production",
+                "Orchestration et clustérisation"
             ],
             "detailed_modules": []
         }
