@@ -1,11 +1,3 @@
-/*
-
-TemplateMo 553 Xtra Blog
-
-https://templatemo.com/tm-553-xtra-blog
-
-*/
-
 html { overflow-x: hidden; }
 
 body {
@@ -244,7 +236,7 @@ ul {
 }
 
 .tm-post-title {
-    font-size: 1.7rem;
+    font-size: 2.7rem;
     transition: all 0.3s ease;
 }
 
@@ -355,8 +347,6 @@ video {
 .tm-category-list { list-style-type: none; }
 figure { margin: 0; }
 figcaption { line-height: 1.4; }
-
-.tm-post-full { max-width: 600px; }
 
 .tm-post-sidebar {
     max-width: 280px;
@@ -609,3 +599,29 @@ a:hover figcaption { color: #056767; }
 .summary {
     text-align: justify;
 }
+
+#summary {
+    text-align: justify;
+    color: #333;
+}
+
+#objectives, #modules {
+    margin: 0px 30px;
+    color: #333;
+}
+
+#post-img-box {
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: #eee;
+    padding: 10px;
+}
+
+#post-img {
+    display: block;
+    height: 400px;
+    width: auto;
+    margin: auto;
+}
+

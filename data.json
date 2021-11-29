@@ -1,6 +1,7 @@
 {
     "training": [
         {
+            "id": "CC001",
             "title": "Cycle certifiant Responsable infrastructure Cloud",
             "img": "img/img-01.jpeg",
             "category": "Cloud Computing",
@@ -23,6 +24,7 @@
             "detailed_modules": []
         },
         {
+            "id": "CC002",
             "title": "Cloud Computing, Synthèse : Usages et Solutions",
             "img": "img/img-01.jpeg",
             "category": "Cloud Computing",
@@ -48,6 +50,7 @@
             "detailed_modules": []
         },
         {
+            "id": "CC003",
             "title": "Cloud Computing, solutions techniques",
             "img": "img/img-01.jpeg",
             "category": "Cloud Computing",
