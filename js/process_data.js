@@ -1,7 +1,26 @@
+function shuffle(array) {
+    let currentIndex = array.length,  randomIndex;
+  
+    // While there remain elements to shuffle...
+    while (currentIndex != 0) {
+  
+      // Pick a remaining element...
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex--;
+  
+      // And swap it with the current element.
+      [array[currentIndex], array[randomIndex]] = [
+        array[randomIndex], array[currentIndex]];
+    }
+  
+    return array;
+  }
+
 function display_trainings() {
     var training_box = $('#training-box');
     $.getJSON("data.json", function(json) {
         trainings = json['training']
+        trainings = shuffle(trainings);
         for (var i = 0; i < trainings.length; i++) {
             training = trainings[i];
             if (training['disabled'] == 'true') continue;
