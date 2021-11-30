@@ -441,6 +441,124 @@
                 "Orchestration et clustérisation"
             ],
             "detailed_modules": []
+        },
+        {
+            "id": "FO001",
+            "title": "Présentation de la fibre optique",
+            "disabled": "false",
+            "img": "img/img-02.jpeg",
+            "category": "Fibre Optique",
+            "added_at": "Novembre 2021",
+            "summary": "",
+            "objectives": [
+                "Diffusion d’éléments théoriques",
+                "Connaître avantages de la fibre optique", 
+                "Connaître le mode de fonctionnement de la fibre optique",
+                "Les différent types de câble et leurs usages"
+            ],
+            "modules": [
+                "Les systèmes de câbles de fibres optiques",
+                "La théorie et les principes de la fibre optique", 
+                "Quelques avantages de la fibre optique",
+                "Quelles sont les normes couvrant la fibre optique",
+                "Les types de fibres : les fibres multimodes et monomodes"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "FO002",
+            "title": "Avant-projet de déploiement",
+            "disabled": "false",
+            "img": "img/img-02.jpeg",
+            "category": "Fibre Optique",
+            "added_at": "Novembre 2021",
+            "summary": "",
+            "objectives": [
+                "Faire une étude du terrain pour le déploiement",
+                "Concevoir un plan d’avant-projet de déploiement (APD)", 
+                "Faire les quantitatif estimatif et prévisionnel (BoQ)"
+            ],
+            "modules": [
+                "Survey",
+                "Définition de l’itinéraire", 
+                "Relevé GPS des points",
+                "Conception des plans",
+                "Quantitatif estimatif et prévisionnel (BoQ)"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "FO003",
+            "title": "Déploiement & réfection",
+            "disabled": "false",
+            "img": "img/img-02.jpeg",
+            "category": "Fibre Optique",
+            "added_at": "Novembre 2021",
+            "summary": "",
+            "objectives": [
+                "Réalisation & implémentation du plan de déploiement",
+                "Fouille et pose des canaux", 
+                "Tirage de câbles",
+                "Raccorder les boîtes les connecteurs et coffrets",
+                "Réfection des terrains pour remettre l’environnement à son état d’origine"
+            ],
+            "modules": [
+                "Génie civil",
+                "Pose de câble", 
+                "Tirage de câble",
+                "Réfection et remise en état des terrains"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "FO004",
+            "title": "Raccordement fibre",
+            "disabled": "false",
+            "img": "img/img-02.jpeg",
+            "category": "Fibre Optique",
+            "added_at": "Novembre 2021",
+            "summary": "",
+            "objectives": [
+                "L’installation des câbles et les techniques de mise en place",
+                "Les techniques de préparation des câbles pour l’épissage (fusion)", 
+                "L’installation de connecteurs",
+                "L’épissage : applications, fusion et méthodes mécaniques",
+                "Le dépannage : matériel et procédures",
+                "Les plans de restauration d’urgence",
+                "La sécurité chimique, la sécurité laser et les précautions dans la manipulation de fibres optiques"
+            ],
+            "modules": [
+                "L’installation de joint de terminaison ",
+                "Les techniques de préparation des câbles pour l’épissage (fusion)", 
+                "L’installation de connecteurs",
+                "L’épissage : applications, fusion et méthodes mécaniques",
+                "Le dépannage : matériel et procédures",
+                "Les plans de restauration d’urgence",
+                "La sécurité chimique, la sécurité laser et les précautions dans la manipulation de fibres optiques"
+            ],
+            "detailed_modules": []
+        },
+        {
+            "id": "FO005",
+            "title": "Test et rapport",
+            "disabled": "false",
+            "img": "img/img-02.jpeg",
+            "category": "Fibre Optique",
+            "added_at": "Novembre 2021",
+            "summary": "",
+            "objectives": [
+                "Test les câbles avant et après la pose",
+                "Voir les pertes de signal dans le câble", 
+                "Produire les Rapport sur les câbles",
+                "Mise à du plan de déploiement (as built)"
+            ],
+            "modules": [
+                "Test des câbles",
+                "L’utilisation et le fonctionnement d’un réflectomètre optique dans le domaine temporel (OTDR)", 
+                "Rapport de test",
+                "Plan de recollement (as built)"
+            ],
+            "detailed_modules": []
         }
     ]
 }

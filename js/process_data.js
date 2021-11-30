@@ -56,3 +56,17 @@ function display_one_training(id) {
         }
     });
 }
+
+function import_courses() {
+    output = $('#output');
+    output.append('shortname;fullname;category;summary</br>')
+    $.getJSON("data.json", function(json) {
+        trainings = json['training'];
+        for (var i = 0; i < trainings.length; i++) {
+            training = trainings[i];
+            var matches = training['title'].match(/\b(\w)/g);
+            shortname = matches.join('').toUpperCase();
+            output.append(shortname + ';' + training['title'] + ';8;' + training['summary'] + '</br>');
+        }
+    });
+}
